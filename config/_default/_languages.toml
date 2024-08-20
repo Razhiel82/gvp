@@ -4,3 +4,8 @@ languageName = "English"
 languagedirection = "ltr"
 title = "Example Site"
 weight = 1
+[de]
+languageName = "Deutsch"
+languagedirection = "ltr"
+title = "GVP Pflaumehim"
+weight = 1
